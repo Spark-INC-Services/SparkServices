@@ -7,7 +7,6 @@
  "materials":[
   {"name":"Gold","price":"550","status":"BUYING"},
   {"name":"Iron","price":"500","status":"BUYING"},
-  
   {"name":"Bronze","price":"450","status":"BUYING"},
   {"name":"Coal","price":"N/A","status":"NOT IN DEMAND"},
   {"name":"Natural Rubber","price":"300","status":"BUYING"},
@@ -41,6 +40,12 @@
   {"name":"Pistol Ammo","price":"7,000"},
   {"name":"Shotgun Ammo","price":"10,000"},
   {"name":"Rifle Ammo","price":"15,000"}
+ ],
+
+ "utility":[
+  {"name":"Kevlar Vest","price":"15,000"},
+  {"name":"Lockpicks","price":"5,000"},
+  {"name":"Zipties","price":"3,000"}
  ],
 
  "packages":[
